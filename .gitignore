@@ -4,4 +4,7 @@
 .pact
 .ssh
 .vim
-.zonecompdump*
+.zcompdump*
+.zsh_history
+.zsh-update
+bin
