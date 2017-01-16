@@ -133,3 +133,7 @@ wstorm() {
 ## Changing the Prompt
 # setopt PROMPT_SUBST
 # PROMPT='${PWD/#$HOME/~}'
+
+##  add zmv
+autoload -U zmv
+
